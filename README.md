@@ -1,5 +1,6 @@
 # Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=Thiago-MM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 <!--
 **Thiago-MM/Thiago-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
