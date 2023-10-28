@@ -7,8 +7,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=Thiago-MM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
 <!--
 **Thiago-MM/Thiago-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
